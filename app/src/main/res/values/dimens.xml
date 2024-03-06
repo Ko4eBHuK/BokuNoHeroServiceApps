@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Common defaults-->
+    <dimen name="default_padding">5dp</dimen>
+    <dimen name="default_padding_twice">10dp</dimen>
+    <dimen name="default_text_size">14sp</dimen>
+    <dimen name="default_title_text_size">18sp</dimen>
+    <!--    Button defaults -->
+    <dimen name="default_primary_btn_height">48dp</dimen>
+    <dimen name="default_primary_btn_text_size">24sp</dimen>
+    <dimen name="default_plate_text_size">18sp</dimen>
+    <dimen name="default_primary_btn_elevation">2dp</dimen>
+    <dimen name="pressed_primary_btn_elevation">0dp</dimen>
+    <dimen name="default_toggle_palette_height">72dp</dimen>
+</resources>
