@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Boku no Hero Service</string>
+    <string name="app_name_short">my.hero</string>
+    <string name="preference_file_key">my.hero.default_private_preferences_file</string>
+
+    <!--    Common strings -->
+    <string name="alert_dialog_error_confirm_text">OK</string>
+    <string name="alert_dialog_error_title">Ошибка</string>
+    <string name="alert_dialog_confirm_title">Подтверждение</string>
+    <string name="alert_dialog_confirm_text">Да</string>
+    <string name="alert_dialog_cancel_text">Нет</string>
+
+    <!--    Shared preferences keys  -->
+    <string name="user_id_key">userId</string>
+    <string name="user_network_token_key">userToken</string>
+    <string name="ticket_template_key">ticketTemplate</string>
+
+    <!--    Home screen strings -->
+    <string name="home_screen_top_bar_title">Мой герой</string>
+    <string name="home_screen_logout_dialog_text">Вы действительно хотите выйти из учётной записи?</string>
+    <string name="btn_sos_text">SOS</string>
+
+    <!--    New ticket screen strings -->
+    <string name="new_ticket_screen_top_bar_title">Заявка на оказание помощи</string>
+    <string name="new_ticket_screen_btn_create_ticket">Создать</string>
+    <string name="new_ticket_screen_message_ticket_created">Заявка успешно создана.</string>
+
+    <!--    Tickets screen strings -->
+    <string name="tickets_screen_top_bar_title">Все заявки</string>
+
+    <!--    Camera -->
+    <string name="icn_camera_view_switch_camera_content_description">Сменить камеру</string>
+    <string name="icn_camera_view_camera_shutter_content_description">Сделать фото</string>
+    <string name="icn_camera_view_view_gallery_content_description">Открыть галлерею</string>
+
+    <!--    Ticket screen strings -->
+    <string name="ticket_screen_delete_dialog_text">Удалить заявку?</string>
+
+    <!--    Login screen strings -->
+    <string name="login_screen_username_title">Пользователь</string>
+    <string name="login_screen_password_title">Пароль</string>
+    <string name="login_screen_login_btn_text">Вход</string>
+
+    <!--    Splash screen strings -->
+    <string name="splash_screen_restart_dialog_text">Инициализация приложения пошла не по плану, будет выполнен перезапуск.</string>
+</resources>

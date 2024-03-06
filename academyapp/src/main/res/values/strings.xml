@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AcademyApp</string>
+    <string name="app_name_short">academia</string>
+    <string name="preference_file_key">academy.default_private_preferences_file</string>
+
+    <!--    Shared preferences keys  -->
+    <string name="user_id_key">userId</string>
+    <string name="user_network_token_key">userToken</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Boku no Hero Service Executor</string>
+    <string name="app_name_short">hero</string>
+    <string name="preference_file_key">hero.default_private_preferences_file</string>
+
+    <!--    Shared preferences keys  -->
+    <string name="hero_id_key">heroId</string>
+    <string name="hero_network_token_key">heroToken</string>
+
+    <!--    Login screen    -->
+    <string name="login_screen_username_title">Пользователь</string>
+    <string name="login_screen_password_title">Пароль</string>
+    <string name="login_screen_login_btn_text">Вход</string>
+
+    <!--    Home screen -->
+    <string name="home_screen_logout_dialog_text">Выйти из учётной записи?</string>
+    <string name="home_screen_top_bar_title">Вы - герой!</string>
+</resources>
